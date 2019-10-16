@@ -15,4 +15,4 @@ INSERT INTO bears
   VALUES ("Grinch", 100, "male", "green", "miserly", 0);
 INSERT INTO bears 
   (name, age, gender, color, temperament, alive)
-  VALUES (, 2, "male", "blue", "easy", 0);
+  VALUES (NULL, 2, "male", "blue", "easy", 0);
